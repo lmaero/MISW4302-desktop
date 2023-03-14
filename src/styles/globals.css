@@ -43,4 +43,10 @@
     background-repeat: no-repeat;
     background-size: contain;
   }
+
+  .rain {
+    background-image: url("/images/rain.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
 }

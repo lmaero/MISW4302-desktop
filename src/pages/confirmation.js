@@ -4,7 +4,7 @@ import Link from 'next/link';
 const khula = Khula({ subsets: ['latin'], weight: '400' });
 const righteous = Righteous({ subsets: ['latin'], weight: '400' });
 
-export default function Home() {
+export default function Confirmation() {
   return (
     <>
       <main className="max-w-sm mx-auto">
