@@ -31,4 +31,10 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  .wait {
+    background-image: url("/images/wait.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 }
