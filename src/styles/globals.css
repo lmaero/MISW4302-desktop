@@ -37,4 +37,10 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  .confirmation {
+    background-image: url("/images/confirmation.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
 }
